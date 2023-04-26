@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 617e7a3b0cc136a4a8a3b1be69eba48b
+guid: 800637aee36d70048b8623087f734d43
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: engineer-idle_0
+      name: engineer-run 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2b1e6b5bf5d02e40a5d1b8c35cfa213
-      internalID: -1474984761
+      spriteID: 17223afc8691e9e45a40e26403f3bdb2
+      internalID: -1392983596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-idle_1
+      name: engineer-run 1_1
       rect:
         serializedVersion: 2
         x: 16
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 621a614dd67b6a548af5d58d7dac070d
-      internalID: 1397840660
+      spriteID: 28da9f32372f7a049a0aa0ab659a1774
+      internalID: -147918182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-idle_2
+      name: engineer-run 1_2
       rect:
         serializedVersion: 2
         x: 32
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 850e6623325f5a44889e163ecbab0ed0
-      internalID: -285886569
+      spriteID: 486f3854c9409474caf423e7baf18b77
+      internalID: 1398973183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-idle_3
+      name: engineer-run 1_3
       rect:
         serializedVersion: 2
         x: 48
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7156372515988414b9517d690271b341
-      internalID: 916026293
+      spriteID: 20bbae57016e7124cbacd2803021accc
+      internalID: -1386338523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-idle_4
+      name: engineer-run 1_4
       rect:
         serializedVersion: 2
         x: 64
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 547b9f4dc3aaddb498912a3b3ef0eb29
-      internalID: -881672141
+      spriteID: 86f9a5d5617bf8549b0f5a2181c4cd33
+      internalID: -400547605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-idle_5
+      name: engineer-run 1_5
       rect:
         serializedVersion: 2
         x: 80
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dae32c4106ef94b41af83cd4a57da066
-      internalID: 548045822
+      spriteID: ed139da5997bf49489b996e6d9b67c65
+      internalID: 757757906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-idle_6
+      name: engineer-run 1_6
       rect:
         serializedVersion: 2
         x: 96
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e014b9a170cbb54f800899067c84bec
-      internalID: 502379796
+      spriteID: a2d88d9b41a85d648b85f929fdf78deb
+      internalID: 814778257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-idle_7
+      name: engineer-run 1_7
       rect:
         serializedVersion: 2
         x: 112
@@ -266,29 +266,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d23f434f33295554886f2c611aef59e4
-      internalID: 1157636691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: engineer-idle_8
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 16
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5eb199afd5f4284d90b409c1f63250d
-      internalID: 613699209
+      spriteID: 9ebdcd1b55e4920478f348810eae5e34
+      internalID: -165239621
       vertices: []
       indices: 
       edges: []
@@ -304,15 +283,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      engineer-idle_0: -1474984761
-      engineer-idle_1: 1397840660
-      engineer-idle_2: -285886569
-      engineer-idle_3: 916026293
-      engineer-idle_4: -881672141
-      engineer-idle_5: 548045822
-      engineer-idle_6: 502379796
-      engineer-idle_7: 1157636691
-      engineer-idle_8: 613699209
+      engineer-run 1_0: -1392983596
+      engineer-run 1_1: -147918182
+      engineer-run 1_2: 1398973183
+      engineer-run 1_3: -1386338523
+      engineer-run 1_4: -400547605
+      engineer-run 1_5: 757757906
+      engineer-run 1_6: 814778257
+      engineer-run 1_7: -165239621
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

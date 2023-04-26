@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 71b84a7ddb0e0df489dbbf3a3d94a079
+guid: 5cd42fd78e3d74e4692f46c592b56d93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,8 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86323b7ce3eb3e84688e2964e86a31b4
-      internalID: -194109290
+      spriteID: 72e0ea3782905594a8ab63556d325d0f
+      internalID: 1909734479
       vertices: []
       indices: 
       edges: []
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a7c11efde1216546aadd87e4218f4fa
-      internalID: -1710406657
+      spriteID: 606dab7d95986c04197f4be7f381f4ef
+      internalID: 108877773
       vertices: []
       indices: 
       edges: []
@@ -157,8 +157,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      engineer-jump_0: -194109290
-      engineer-jump_1: -1710406657
+      engineer-jump_0: 1909734479
+      engineer-jump_1: 108877773
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
