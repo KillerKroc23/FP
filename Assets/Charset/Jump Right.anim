@@ -6,7 +6,11 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Charset/jump.anim
   m_Name: Jump
+=======
+  m_Name: Jump Right
+>>>>>>> 0eb16c64e10aefb0940cfe4248eb2b18d0280c5a:Assets/Charset/Jump Right.anim
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,9 +24,15 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
+<<<<<<< HEAD:Assets/Charset/jump.anim
       value: {fileID: -194109290, guid: 71b84a7ddb0e0df489dbbf3a3d94a079, type: 3}
     - time: 0.083333336
       value: {fileID: -1710406657, guid: 71b84a7ddb0e0df489dbbf3a3d94a079, type: 3}
+=======
+      value: {fileID: 1909734479, guid: 5cd42fd78e3d74e4692f46c592b56d93, type: 3}
+    - time: 0.083333336
+      value: {fileID: 108877773, guid: 5cd42fd78e3d74e4692f46c592b56d93, type: 3}
+>>>>>>> 0eb16c64e10aefb0940cfe4248eb2b18d0280c5a:Assets/Charset/Jump Right.anim
     attribute: m_Sprite
     path: 
     classID: 212
@@ -42,8 +52,13 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
+<<<<<<< HEAD:Assets/Charset/jump.anim
     - {fileID: -194109290, guid: 71b84a7ddb0e0df489dbbf3a3d94a079, type: 3}
     - {fileID: -1710406657, guid: 71b84a7ddb0e0df489dbbf3a3d94a079, type: 3}
+=======
+    - {fileID: 1909734479, guid: 5cd42fd78e3d74e4692f46c592b56d93, type: 3}
+    - {fileID: 108877773, guid: 5cd42fd78e3d74e4692f46c592b56d93, type: 3}
+>>>>>>> 0eb16c64e10aefb0940cfe4248eb2b18d0280c5a:Assets/Charset/Jump Right.anim
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
