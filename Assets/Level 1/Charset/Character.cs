@@ -11,7 +11,7 @@ public class Character : MonoBehaviour
     private bool facingRight = true;
     private Vector3 localScale;
     private Vector3 respawnPoint;
-    public GameObject fallDetecor;
+    
 
     // Start is called before the first frame update
     private void Start()
@@ -19,7 +19,7 @@ public class Character : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         localScale = transform.localScale;
-        moveSpeed = 3f;
+        moveSpeed = 5f;
         respawnPoint= transform.position;
 
 
@@ -53,7 +53,7 @@ public class Character : MonoBehaviour
             anim.SetBool("isFalling", true);
         }
         
-        fallDetecor.transform.position = new Vector2(transform.position.x, fallDetecor.transform.position.y);
+        
     }
 
     private void FixedUpdate()
@@ -75,11 +75,16 @@ public class Character : MonoBehaviour
         transform.localScale = localScale;
     }
 
-    private void OnTriggerEnter2D(Collider2D collison)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collison.tag == "FallDetector")
+        if(collision.tag == "FallDetector")
         {
             transform.position = respawnPoint; 
+        }
+
+        if (collision.tag == "Traps")
+        {
+            transform.position = respawnPoint;
         }
     }
 
